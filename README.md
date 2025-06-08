@@ -2,6 +2,8 @@
 
 Este repositorio contiene el código y los materiales del curso "Python para Data Science" de Udemy.
 
+Link: ![Curso de Python para Data Science](https://www.udemy.com/course/python-para-data-science/)
+
 ## Temas Cubiertos
 
 * Día 2: Variables numéricas y de texto, función type, números, operaciones.
